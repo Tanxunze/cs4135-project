@@ -2,6 +2,8 @@
 
 ## Development Instruction
 
+> **Note**: Please develop on the `dev` branch. Only merge to `main` after testing.
+
 ### Frontend
 
 1. Install nvm and nodejs
